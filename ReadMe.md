@@ -2,6 +2,6 @@
 
 Curso de GitHub
 
-#Dia 01
+# Dia 01
 
 Aprendemos git distribuido

@@ -4,7 +4,7 @@ Curso de GitHub
 
 # Dia 01 - COMANDOS GIT
 
-git init				--> inicia o git
+git init				--> inicia o git /n
 git status				--> verifica staging area do git
 git log					--> verifica logs de commits realizados
 git clone "endereco"	--> clona o repositorio para a pasta da sua maquina

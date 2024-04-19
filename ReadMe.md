@@ -23,5 +23,3 @@ git checkout "nome branch"		-->muda de branch
 git checkout -b "nome branch"	--cria uma nova branch  
 
 git push origin "nome branch"	-->push da branch para o repo  
-
-NONONONONONOONONO
